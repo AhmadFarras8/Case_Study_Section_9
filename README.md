@@ -51,7 +51,7 @@ A PHP (procedural MySQLi) + Bootstrap 5 web application for managing a coffee sh
 
 ## Setup
 
-1. Copy or extract this folder into `C:\xampp\htdocs\kopi_piro` (or your XAMPP `htdocs` directory).
+1. Copy or extract this folder into `C:\xampp\htdocs`.
 2. Start **Apache** and **MySQL** from the XAMPP Control Panel.
 3. Open phpMyAdmin → **Import** → choose `database.sql` → Go.
 4. Check the database settings in `config.php` (defaults: host `localhost`, user `root`, empty password, database `kopi_piro`).
