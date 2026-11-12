@@ -6,7 +6,7 @@
 |---|---|
 | Ahmad Farras Favian A | 5025251005 |
 
-A PHP (procedural MySQLi) + Bootstrap 5 web application for managing a coffee shop, products, customer orders, and staff access. Built with role-based access control and a MySQL relational database.
+A PHP + Bootstrap 5 web application for managing a coffee shop, products, customer orders, and staff access. Built with role-based access control and a MySQL relational database.
 
 ## Features
 
